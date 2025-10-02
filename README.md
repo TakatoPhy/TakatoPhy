@@ -33,7 +33,6 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 | **Languages** | Python / C++ / Julia |
 | **Quantum AI/ML** | VQE, QAOA, QSVM, TensorFlow Quantum |
 | **Cloud/Hardware** | IBM Quantum Platform / AWS Braket / High-Performance Computing (HPC) |
-| **Concepts** | Quantum Error Correction (QEC), Adiabatic QC, Noise Mitigation, NISQ Architecture |
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,julia,react,html,css,php,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
