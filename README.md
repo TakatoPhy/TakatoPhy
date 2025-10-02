@@ -32,9 +32,8 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 | **Concepts** | Quantum Error Correction (QEC), Adiabatic QC, Noise Mitigation, NISQ Architecture |
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,julia,matlab,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,julia,matlab,react,html,css,php,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
 <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,tensorflow,github,docker" alt="Cloud, AI, and DevOps" style="margin-bottom: 10px;"/>
-<img src="https://skillicons.dev/icons?i=ibm,gcp" alt="Quantum/Concepts" />
 </p>
 </p>
 
