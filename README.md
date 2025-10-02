@@ -42,8 +42,8 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 ## 📈 My GitHub Activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=gotham&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TakatoPhy&show_icons=true&theme=gotham&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakatoPhy&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
