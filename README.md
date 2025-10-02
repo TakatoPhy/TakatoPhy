@@ -31,7 +31,7 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Quantum SDKs** | Qiskit / QTip / PennyLane|
+| **Quantum SDKs** | Qiskit / QuTiP / PennyLane|
 | **Languages** | Python / C++ / Julia |
 | **Quantum AI/ML** | VQE, QAOA, QSVM, TensorFlow Quantum |
 | **Cloud/Hardware** | IBM Quantum Platform / AWS Braket|
