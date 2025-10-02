@@ -31,6 +31,27 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 | **Cloud/Hardware** | IBM Quantum Platform / AWS Braket / High-Performance Computing (HPC) |
 | **Concepts** | Quantum Error Correction (QEC), Adiabatic QC, Noise Mitigation, NISQ Architecture |
 
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,julia,jupyter,matlab,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,tensorflow,ai,github,docker" alt="Cloud, AI, and DevOps" style="margin-bottom: 10px;"/>
+<img src="https://skillicons.dev/icons?i=ibm,gcp,archlinux" alt="Quantum/Concepts" />
+    <small>_Note: I utilize Qiskit, Cirq, and PennyLane, building upon foundational concepts in Physics (represented by the Arch Linux icon as a "concept" placeholder for advanced/niche topics)._</small>
+</p>
+</p>
+
 ---
 
 
