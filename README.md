@@ -22,24 +22,20 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Quantum SDKs** | Qiskit / QTip / Cirq / PennyLane|
-| **Languages** | 🐍 Python / C++ / Julia / MATLAB (for physics modeling) |
+| **Languages** | Python / C++ / Julia / MATLAB (for physics modeling) |
 | **Quantum AI/ML** | VQE, QAOA, QSVM, TensorFlow Quantum |
 | **Cloud/Hardware** | IBM Quantum Platform / AWS Braket / High-Performance Computing (HPC) |
 | **Concepts** | Quantum Error Correction (QEC), Adiabatic QC, Noise Mitigation, NISQ Architecture |
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,cpp,aws,azure,tensorflow,git" alt="Tech Stack Icons" />
-    </p>
-
 ---
 
 
-## 📈 My GitHub Activity
+## My GitHub Activity
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TakatoPhy&show_icons=true&theme=gotham&rank_icon=github&hide_border=true" alt="GitHub Stats" />
