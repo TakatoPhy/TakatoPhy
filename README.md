@@ -15,13 +15,13 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 ### Academic & Research Path
 
 - **Student:** B.S. in Physics (4th Year) at **Tokyo University of Science (TUS)**.
-- **Research Fellow:** Trainee at **RIKEN Center for Quantum Computing (RQC)**, **Quantum Many-Body Dynamics Research Team**. *(Focusing on the dynamics of complex quantum systems.)*
-- **Intern:** Research Intern at the **Matsuo & Iwasawa Lab, The University of Tokyo**.
+- **Research Fellow:** Trainee at **RIKEN Center for Quantum Computing (RQC)**, **Quantum Many-Body Dynamics Research Team**.
+- **Intern:**  Intern at the **Matsuo & Iwasawa Lab, The University of Tokyo**.
 
 ### Professional Experience
 
 - **CEO & Quantum Computing Engineer** at **TOONIQ LLC.**.
-    - Specializing in the **Quantum AI** field to primarily drive **efficiency and optimization in animation production workflows**. *(Applying QML and Optimization to creative industries.)*
+    - Specializing in the **Quantum AI** field to primarily drive **efficiency and optimization in animation production workflows**.
 
 ---
 
