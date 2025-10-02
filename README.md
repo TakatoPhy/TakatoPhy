@@ -17,7 +17,7 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 
 ### Professional Experience
 
-- **Quantum Computing Engineer** at **TOONIQ LLC. (合同会社TOONIQ)**.
+- **Quantum Computing Engineer** at **TOONIQ LLC.**.
     - Specializing in the **Quantum AI** field to primarily drive **efficiency and optimization in animation production workflows**. *(Applying QML and Optimization to creative industries.)*
 
 ---
