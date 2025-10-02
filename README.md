@@ -1,6 +1,5 @@
 <div align="center">
-    <h1>🌌 Hi there, I'm TakatoOki - Quantum & AI Fusion Engineer</h1>
-    <p>Folding the wave functions of the universe into code. Superposition in my terminal, entanglement in my ideas.</p>
+    <h1>🌌 Hi there, I'm TakatoPhy - Quantum & AI Fusion Engineer</h1>
 </div>
 
 ---
