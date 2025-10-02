@@ -1,3 +1,10 @@
 # Hello, I'm TakatoPhy!
 
 Welcome to my GitHub profile! Here are some of my projects and interests.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TakatoPhy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TakatoPhy&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=TakatoPhy&theme=juicyfresh&no-bg=true" />
