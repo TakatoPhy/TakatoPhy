@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🌌 Hi there, I'm TakatoPhy - Quantum & AI Fusion Engineer</h1>
+    <h1>🌌 Hi there, I'm TakatoPhy - Quantum & AI Engineer</h1>
 </div>
 
 ---
