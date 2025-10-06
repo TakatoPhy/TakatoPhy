@@ -32,12 +32,12 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Quantum SDKs** | Qiskit / QuTiP / PennyLane|
-| **Languages** | Python / C++ / Julia |
+| **Languages** | Python / C++ / Julia / JavaScript |
 | **Quantum AI/ML** | VQE, QAOA, QSVM, TensorFlow Quantum |
 | **Cloud/Hardware** | IBM Quantum Platform / AWS Braket|
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,julia,react,html,css,php,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,julia,javascript,react,html,css,php,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
 <img src="https://skillicons.dev/icons?i=aws,googlecloud,github,docker" alt="Cloud, AI, and DevOps" style="margin-bottom: 10px;"/>
 </p>
 </p>
