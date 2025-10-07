@@ -18,7 +18,7 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 
 - **Student:** B.S. in Physics (4th Year) at **Tokyo University of Science (TUS)**.
 - **Research Fellow:** Trainee at **RIKEN Center for Quantum Computing (RQC)**
-- **Intern:**  Intern at the **Matsuo & Iwasawa Lab, The University of Tokyo**.
+- **Intern:** Intern at the **Matsuo & Iwasawa Lab, The University of Tokyo**.
 
 ### Professional Experience
 
