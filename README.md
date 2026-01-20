@@ -9,11 +9,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TakatoPhy)](https://github.com/TakatoPhy/github-profile-trophy)
 
 ---
-
-## About Me
-
-I am a highly motivated Quantum Computing Engineer and a final-year Physics student, bridging the gap between fundamental quantum research and practical, high-impact AI applications.
-
 ### Academic & Research Path
 
 - **Student:** B.Sc. in Physics (4th Year) at **Tokyo University of Science (TUS)**.
