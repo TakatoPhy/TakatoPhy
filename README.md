@@ -16,7 +16,7 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 
 ### Academic & Research Path
 
-- **Student:** B.S. in Physics (4th Year) at **Tokyo University of Science (TUS)**.
+- **Student:** B.Sc. in Physics (4th Year) at **Tokyo University of Science (TUS)**.
 - **Research Fellow:** Trainee at **RIKEN Center for Quantum Computing (RQC)**
 - **Intern:** Intern at the **Matsuo & Iwasawa Lab, The University of Tokyo**.
 
@@ -33,8 +33,8 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 | :--- | :--- |
 | **Quantum SDKs** | Qiskit / QuTiP / PennyLane　|
 | **Languages** | Python / C++ / Julia / JavaScript |
-| **Quantum AI/ML** | VQE, QAOA, QSVM, TensorFlow Quantum |
-| **Cloud/Hardware** | IBM Quantum Platform / AWS Braket|
+| **Quantum AI/ML** | VQE, QAOA, TensorFlow Quantum |
+| **Cloud/Hardware** | IBM Quantum Platform|
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,julia,javascript,react,html,css,php,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
