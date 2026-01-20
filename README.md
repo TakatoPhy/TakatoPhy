@@ -22,7 +22,7 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 
 ### Professional Experience
 
-- **CEO & AI Engineer** at **TOONIQ Co.,Ltd.**
+- **CEO & AI Engineer** at **TOONIQ LLM**
 
 ---
 
