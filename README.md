@@ -36,7 +36,7 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 | **Cloud/Hardware** | IBM Quantum Platform|
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,julia,javascript,react,html,css,php,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,php,latex" alt="Programming Languages and Tools" style="margin-bottom: 10px;"/>
 <img src="https://skillicons.dev/icons?i=aws,googlecloud,github,docker" alt="Cloud, AI, and DevOps" style="margin-bottom: 10px;"/>
 </p>
 </p>
