@@ -22,8 +22,7 @@ I am a highly motivated Quantum Computing Engineer and a final-year Physics stud
 
 ### Professional Experience
 
-- **CEO & Quantum Computing & AI Engineer** at **TOONIQ Co.,Ltd.**
-    - Specializing in the **Quantum AI** field to primarily drive **efficiency and optimization in animation production workflows**.
+- **CEO & AI Engineer** at **TOONIQ Co.,Ltd.**
 
 ---
 
