@@ -72,6 +72,16 @@ fun_fact: "I trap atoms colder than outer space"
 
 <div align="center">
 
+### Competitive Programming
+
+[![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/nearmiss11593?theme=dark&show_history=5&width=450)](https://atcoder.jp/users/nearmiss11593)
+
+</div>
+
+---
+
+<div align="center">
+
 *"Cooling atoms to microkelvin, heating up the code to production."*
 
 </div>
