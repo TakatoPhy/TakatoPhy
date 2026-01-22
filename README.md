@@ -5,6 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/TakatoPhy?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF)](https://github.com/TakatoPhy)
 [![Profile Views](https://komarev.com/ghpvc/?username=TakatoPhy&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/TakatoPhy)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/takatophy)
+[![AtCoder](https://img.shields.io/badge/AtCoder-6c7086?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/nearmiss11593)
+
 </div>
 
 ---
@@ -82,6 +85,20 @@ fun_fact: "I trap atoms colder than outer space"
 
 <div align="center">
 
+### Connect with me
+
+<a href="https://linkedin.com/in/takatophy"><img src="https://img.shields.io/badge/-takatophy-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://atcoder.jp/users/nearmiss11593"><img src="https://img.shields.io/badge/-nearmiss11593-6c7086?style=flat-square&logo=atcoder&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
 *"Cooling atoms to microkelvin, heating up the code to production."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 
 </div>
