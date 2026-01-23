@@ -6,6 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TakatoPhy&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/TakatoPhy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/takatophy)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/takatophy)
 [![AtCoder](https://img.shields.io/badge/AtCoder-6c7086?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/nearmiss11593)
 
 </div>
@@ -89,6 +90,7 @@ fun_fact: "I trap atoms colder than outer space"
 
 <a href="https://linkedin.com/in/takatophy"><img src="https://img.shields.io/badge/-takatophy-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://kaggle.com/takatophy"><img src="https://img.shields.io/badge/-takatophy-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 <a href="https://atcoder.jp/users/nearmiss11593"><img src="https://img.shields.io/badge/-nearmiss11593-6c7086?style=flat-square&logo=atcoder&logoColor=white"/></a>
 
 </div>
