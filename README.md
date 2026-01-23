@@ -70,7 +70,22 @@ fun_fact: "I trap atoms colder than outer space"
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakatoPhy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
 
-<br/>
+</div>
+
+---
+
+<div align="center">
+
+### ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakatoPhy/TakatoPhy/output/github-snake-dark.svg" />
