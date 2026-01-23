@@ -62,11 +62,11 @@ fun_fact: "I trap atoms colder than outer space"
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TakatoPhy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TakatoPhy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TakatoPhy&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=TakatoPhy&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakatoPhy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
 
@@ -78,7 +78,9 @@ fun_fact: "I trap atoms colder than outer space"
 
 ### ⏱️ WakaTime Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TakatoPhy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TakatoPhy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+
+[![wakatime](https://wakatime.com/badge/user/6d41c4da-2ad6-47bc-86ad-d90fadc0be9e.svg?style=for-the-badge)](https://wakatime.com/@TakatoPhy)
 
 </div>
 
@@ -107,10 +109,9 @@ fun_fact: "I trap atoms colder than outer space"
 **Kaggle**
 
 <a href="https://kaggle.com/takatophy">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/competition" alt="Kaggle Competition" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/dataset" alt="Kaggle Dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/notebook" alt="Kaggle Notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/discussion" alt="Kaggle Discussion" />
+  <img src="https://img.shields.io/badge/Competitions-Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Competition" />
+  <img src="https://img.shields.io/badge/Datasets-Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset" />
+  <img src="https://img.shields.io/badge/Notebooks-Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Notebook" />
 </a>
 
 </div>
