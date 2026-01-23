@@ -70,15 +70,34 @@ fun_fact: "I trap atoms colder than outer space"
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakatoPhy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakatoPhy/TakatoPhy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakatoPhy/TakatoPhy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TakatoPhy/TakatoPhy/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
 
-### Competitive Programming
+### Competitive Programming & ML
 
 [![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/nearmiss11593?theme=dark&show_history=5&width=450)](https://atcoder.jp/users/nearmiss11593)
+
+<br/>
+
+**Kaggle**
+
+<a href="https://kaggle.com/takatophy">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/competition" alt="Kaggle Competition" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/dataset" alt="Kaggle Dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/notebook" alt="Kaggle Notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/takatophy/discussion" alt="Kaggle Discussion" />
+</a>
 
 </div>
 
