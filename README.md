@@ -62,10 +62,6 @@ fun_fact: "I trap atoms colder than outer space"
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TakatoPhy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-<br/>
-
-[![trophy](https://github-trophies.vercel.app/?username=TakatoPhy&theme=tokyonight&no-frame=true&no-bg=true&column=7&exclude=AncientUser,Organizations,Achievements)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakatoPhy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
 
 </div>
