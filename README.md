@@ -6,6 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TakatoPhy&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/TakatoPhy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/takatophy)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/TakatoPhy)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/TakatoPhy2)
 
 </div>
@@ -111,6 +112,7 @@ sh   2 hrs 30 mins   ███████████████████�
 
 <a href="https://linkedin.com/in/takatophy"><img src="https://img.shields.io/badge/-takatophy-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://kaggle.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
 <a href="https://huggingface.co/TakatoPhy2"><img src="https://img.shields.io/badge/-TakatoPhy2-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
 
 </div>
