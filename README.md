@@ -5,7 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/TakatoPhy?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF)](https://github.com/TakatoPhy)
 [![Profile Views](https://komarev.com/ghpvc/?username=TakatoPhy&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/TakatoPhy)
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TakatoPhy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/takatophy)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/TakatoPhy)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/TakatoPhy)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/TakatoPhy2)
 
@@ -38,13 +40,15 @@ fun_fact: "I trap atoms colder than outer space"
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,typescript,julia,rust,react,nextjs,prisma,docker,aws,gcp&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,typescript,julia,rust,react,nextjs,prisma,docker,aws,gcp,pytorch,tensorflow&perline=12" />
 
 <br/>
 
-**Quantum SDKs**
+**Quantum & ML**
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-FF6600?style=for-the-badge&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A435F0?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -110,7 +114,9 @@ sh   2 hrs 30 mins   ███████████████████�
 
 ### Connect with me
 
+<a href="https://x.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="https://linkedin.com/in/takatophy"><img src="https://img.shields.io/badge/-takatophy-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://zenn.dev/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-3EA8FF?style=flat-square&logo=zenn&logoColor=white"/></a>
 <a href="https://github.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://kaggle.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
 <a href="https://huggingface.co/TakatoPhy2"><img src="https://img.shields.io/badge/-TakatoPhy2-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
