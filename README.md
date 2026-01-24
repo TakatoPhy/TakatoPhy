@@ -73,6 +73,15 @@ fun_fact: "I trap atoms colder than outer space"
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 January 2026 - To: 23 January 2026
+
+Total Time: 2 hrs 30 mins
+
+sh   2 hrs 30 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TakatoPhy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
