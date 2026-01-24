@@ -72,6 +72,9 @@ fun_fact: "I trap atoms colder than outer space"
 
 ### ⏱️ WakaTime Stats
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TakatoPhy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 [![wakatime](https://wakatime.com/badge/user/6d41c4da-2ad6-47bc-86ad-d90fadc0be9e.svg?style=for-the-badge)](https://wakatime.com/@TakatoPhy)
