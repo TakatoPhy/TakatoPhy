@@ -40,7 +40,7 @@ fun_fact: "I trap atoms colder than outer space"
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,typescript,julia,rust,react,nextjs,prisma,docker,aws,gcp,pytorch,tensorflow&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,typescript,cpp,react,nextjs,prisma,docker,aws,gcp,pytorch,tensorflow,latex&perline=12" />
 
 <br/>
 
@@ -48,10 +48,8 @@ fun_fact: "I trap atoms colder than outer space"
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![QuTiP](https://img.shields.io/badge/QuTiP-FF6600?style=for-the-badge&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-A435F0?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
@@ -76,50 +74,11 @@ fun_fact: "I trap atoms colder than outer space"
 
 <div align="center">
 
-### ⏱️ WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 January 2026 - To: 03 February 2026
-
-Total Time: 118 hrs 38 mins
-
-sh   118 hrs 38 mins █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TakatoPhy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-[![wakatime](https://wakatime.com/badge/user/6d41c4da-2ad6-47bc-86ad-d90fadc0be9e.svg?style=for-the-badge)](https://wakatime.com/@TakatoPhy)
-
-</div>
-
----
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakatoPhy/TakatoPhy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakatoPhy/TakatoPhy/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/TakatoPhy/TakatoPhy/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-### Connect with me
-
-<a href="https://x.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-000000?style=flat-square&logo=x&logoColor=white"/></a>
-<a href="https://linkedin.com/in/takatophy"><img src="https://img.shields.io/badge/-takatophy-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://zenn.dev/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-3EA8FF?style=flat-square&logo=zenn&logoColor=white"/></a>
-<a href="https://github.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://kaggle.com/TakatoPhy"><img src="https://img.shields.io/badge/-TakatoPhy-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-<a href="https://huggingface.co/TakatoPhy2"><img src="https://img.shields.io/badge/-TakatoPhy2-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
 
 </div>
 
