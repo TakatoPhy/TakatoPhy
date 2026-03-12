@@ -1,43 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Quantum+Physicist+%26+AI+Engineer;Building+the+future+with+atoms+%26+code;RIKEN+RQC+%7C+TOONIQ+LLC)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/TakatoPhy?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF)](https://github.com/TakatoPhy)
-[![Profile Views](https://komarev.com/ghpvc/?username=TakatoPhy&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/TakatoPhy)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TakatoPhy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/takatophy)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/takatophy)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/TakatoPhy)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/TakatoPhy2)
-
-</div>
-
----
-
-```yaml
-name: Takato Oki
-located_in: Tokyo, Japan
-current_position:
-  - Physics B4 @ Tokyo University of Science
-  - Research Trainee @ RIKEN Center for Quantum Computing
-  - CEO @ TOONIQ LLC
-
-research:
-  focus: "Laser Cooling & Trapping of Strontium Atoms"
-  applications:
-    - Optical Lattice Clocks
-    - Quantum Simulation
-    - Precision Measurement
-
-currently_learning: ["Quantum Optics", "AMO Physics", "Rust"]
-fun_fact: "I trap atoms colder than outer space"
-```
-
----
-
-<div align="center">
-
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,typescript,cpp,react,nextjs,prisma,docker,aws,gcp,pytorch,tensorflow,latex&perline=12" />
